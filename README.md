@@ -1,1 +1,1 @@
-# Stepin_
+# Stepin_diary management system
