@@ -21,5 +21,6 @@ In this console application, you can add, view, edit and delete records. Records
 3. Updating and Deleting a file was overcame by using a temporary file to store data for some time.
 
 ## Learning Resourses
+
 1. Geeks for geeks
-2.Tutorial point
+2. Tutorial point
