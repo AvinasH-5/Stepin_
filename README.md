@@ -1,11 +1,17 @@
-# miniproject_c
+# WELCOME TO DIARY MANAGEMENT SYSTEM
 
-personal diary management system
+## INTRODUCTION
+In this console application, you can add, view, edit and delete records. Records can be added with many information such as duration of task, name, address, time and date. File handling has been effectively used to keep the records.
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/97ed3a8777754eec86488e042a91f69b)](https://app.codacy.com/gh/stepin104245/miniproject_c?utm_source=github.com&utm_medium=referral&utm_content=stepin104245/miniproject_c&utm_campaign=Badge_Grade)
+![image](https://www.codewithc.com/wp-content/uploads/2014/04/diary-menu.png)
 
 
-![cppcheck-action](https://github.com/stepin104245/miniproject_c/workflows/cppcheck-action/badge.svg?branch=main)
-![Valgrind](https://github.com/stepin104245/miniproject_c/workflows/Valgrind/badge.svg)
-![C/C++ CI](https://github.com/stepin105361/calc/workflows/C/C++%20CI/badge.svg)
+
+
+![cppcheck-action](https://www.code-inspector.com/project/27741/score/svg)
+![Valgrind]()
+![C/C++ CI]()
+
+
+<image src = "https://www.code-inspector.com/project/27741/status/svg" alt="Code Grade" />
 
