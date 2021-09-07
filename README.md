@@ -6,7 +6,7 @@ In this console application, you can add, view, edit and delete records. Records
 ![image](https://www.codewithc.com/wp-content/uploads/2014/04/diary-menu.png)
 
 
-
+[![Valgrind](https://github.com/AvinasH-5/Stepin_diarymanagementsystem/actions/workflows/valgrind.yml/badge.svg)](https://github.com/AvinasH-5/Stepin_diarymanagementsystem/actions/workflows/valgrind.yml)
 
 ![cppcheck-action](https://www.code-inspector.com/project/27741/score/svg)
 
