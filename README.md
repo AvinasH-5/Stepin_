@@ -20,3 +20,6 @@ In this console application, you can add, view, edit and delete records. Records
 2. I have faced issues in file handling. so, I used strings.
 3. Updating and Deleting a file was overcame by using a temporary file to store data for some time.
 
+## Learning Resourses
+1. Geeks for geeks
+2.Tutorial point
