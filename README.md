@@ -10,6 +10,7 @@ In this console application, you can add, view, edit and delete records. Records
 
 ![cppcheck-action](https://www.code-inspector.com/project/27741/score/svg)
 
+[![cppcheck-action](https://github.com/AvinasH-5/Stepin_diarymanagementsystem/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AvinasH-5/Stepin_diarymanagementsystem/actions/workflows/c-cpp.yml)
 
 <image src = "https://www.code-inspector.com/project/27741/status/svg" alt="Code Grade" />
 
