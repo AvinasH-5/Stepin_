@@ -1,21 +1,35 @@
-# TEST PLAN:
+## TEST PLAN
+## Table 1: High level test plan
+| Test ID | Description | Exp I/P | Exp O/P | Actual Out | Type of test |
+| :--: | :---: | :----: | :---: | :---: | :---: |
+| H_01 | User should be able to login| Enter username and password | Succesfully logged in | Succesfully logged in | Requirement based |
 
-## Table no: High level test plan
+## Table 2: Low level test plan
+| Test ID | Description | Exp I/P | Exp O/P | Actual Out | Type of test |
+| :--: | :---: | :----: | :---: | :---: | :---: |
+| L_01 | User should be login with their credintials | Enter name as ABC and password as 123 | Succesfully logged in | Succesfully logged in | requirement based |
+| L_02 | User can add their content | Select add content option then enter the duration,date,time,note | Display addrecord details as duration,date,time and note | Display addrecord details as duration,date,time and note | senario based |
+| L_03 | User can view their content | Select view content option then enter the details | Display the details | Display the details | senario based |
+| L_04 | User can edit their content | Select edit content option then enter what you edit like duration,date,time,note | Display newly editrecord details as duration,date,time and note |  Display newly editrecord details as duration,date,time and note | senario based |
+| L_05 | User can edit their password | Select default password and then edit new password | Display that password is changed |  Display that password is changed | senario based |
+| L_06 | User can edit their record | Select delete options like delete particular record on time or delete whole record | Display Delete succesfully | Display Delete succesfully | senario based |
 
-| **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual I/P** | **Actual O/P**|    
-|-------------|--------------------------------------------------------------|------------|-------------|------------|-------------|
-HLT1	|checking all the functions are working correcty|	Call the functions|	All functions execute correctly|	All functions are executed correctly|	Requirement based
-HLT2	|Checking whether called functions are executed|	Call a specific function|	Call function execute|	Called function is executed|	Scenario based
-HLT3	|Check for features other than specified|	Choosing other values|	No output displayed|	No output is displayed|	Boundary based
+## OUTPUT
 
-## Table no: Low level test plan
+-   Add menu
+![Add menu](https://github.com/TadimallaLakshmiPavithra/stepin-personal-dairy-management-system/blob/592ab2c2201d141dfe34b364fd4554a011ccd8cc/5_Images/add%20menu.PNG)
 
-| **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual I/P** | **Actual O/P**|     
-|-------------|--------------------------------------------------------------|------------|-------------|------------|-------------|
-LLT1	|Checking accept function is accepting users information	|user details	|accept the details	|accept the details	|Requirement based
-LLT2	|Checking deposit method is able to update balance	|amount to be deposited	|updated balance	|updated balance	|Scenario based
-LLT3	|checking withdraw method display insufficient balance if balance is low	|amount to withdraw	|low balance	|low balance	|Boundary based
-LLT4	|search for record not present	|No information displayed	|user id	|No information displayed	|No information displayed
-LLT5	|checking withdraw method is able to withdraw for sufficient balance	|amount to be withdrawn	|updated balance	|updated balance	|Scenario based
-LLT6	|search for record present	|information displayed	|user id	|information displayed	|information displayed
-LLT7	|display the users	|information displayed	|choosing display option |information displayed	|information displayed
+-   Delete menu
+![Delete menu](https://github.com/TadimallaLakshmiPavithra/stepin-personal-dairy-management-system/blob/d78ee7c489dcb1d2546e246116d4ecdb8f5069d7/5_Images/delete%20menu.PNG)
+
+-   Edit after delete menu
+![Edit after delete menu](https://github.com/TadimallaLakshmiPavithra/stepin-personal-dairy-management-system/blob/d92b63521fa597ed8c9d32fe9ee024ebcdbb967f/5_Images/edit%20after%20delete%20menu.PNG)
+
+-   Edit password
+![Edit password](https://github.com/TadimallaLakshmiPavithra/stepin-personal-dairy-management-system/blob/d92b63521fa597ed8c9d32fe9ee024ebcdbb967f/5_Images/edit%20password.PNG)
+
+-   Exit menu
+![Exit menu](https://github.com/TadimallaLakshmiPavithra/stepin-personal-dairy-management-system/blob/d92b63521fa597ed8c9d32fe9ee024ebcdbb967f/5_Images/exit%20menu.PNG)
+
+-   View menu
+![View menu](https://github.com/TadimallaLakshmiPavithra/stepin-personal-dairy-management-system/blob/d92b63521fa597ed8c9d32fe9ee024ebcdbb967f/5_Images/view%20menu.PNG)
